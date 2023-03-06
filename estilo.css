@@ -1,0 +1,19 @@
+body{
+    background-image: url("img/ae.gif");
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 150px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 150px;
+    border-width: 4px;
+    border-style: solid;
+    border-color: blueviolet;
+    color: white;
+}
+
+button{
+    background-color: black;
+    color: white;
+}
